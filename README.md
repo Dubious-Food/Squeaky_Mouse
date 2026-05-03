@@ -28,4 +28,4 @@ A mouse themed mouse shell.
 |Bambu Wireless Mouse Kit Tax  | N/A  | $?.??  | N/A |
 Total (USD): $??.??
 
- [csv]()
+ [CSV](https://github.com/Dubious-Food/Squeaky_Mouse/blob/main/BOM.csv)
