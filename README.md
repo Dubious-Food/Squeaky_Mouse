@@ -1,5 +1,5 @@
 # Mouse
-A mouse themed mouse shell.
+A mouse themed mouse shell made for [Stasis](https://stasis.hackclub.com) .
 
 
 
